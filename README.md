@@ -1,6 +1,6 @@
 # API_Marvel
 
-Instalar Node.js e React.js ao computador para o projeto rodar
+Instalar Node.js ao computador para o projeto rodar
 
 Primeiramente isntalar o Node.js pelo link https://nodejs.org/en/download/
 
